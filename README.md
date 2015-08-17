@@ -61,7 +61,7 @@ Xcode作为官方指定的iOS应用开发IDE，功能虽然够用，但用户体
 
     ![image](https://github.com/FuzzyAutocomplete/FuzzyAutocompletePlugin/raw/master/demo.gif)
 
-* (HTYCopyIssue)[https://github.com/hanton/CopyIssue-Xcode-Plugin]
+* [HTYCopyIssue](https://github.com/hanton/CopyIssue-Xcode-Plugin)
 
     运行工程的时候如果有warning或者error，如果想直接拷贝issue的信息，而不带文件名和行号，按快捷键**⇧⌘c**，如果想直接搜索，那就直接右键吧。
 
@@ -73,19 +73,19 @@ Xcode作为官方指定的iOS应用开发IDE，功能虽然够用，但用户体
 
     ![image](https://github.com/hanton/CopyIssue-Xcode-Plugin/raw/master/screenshots/Step2Alternate.png?raw=true)
 
-* (HighlightSelectedString)[https://github.com/keepyounger/HighlightSelectedString]
+* [HighlightSelectedString](https://github.com/keepyounger/HighlightSelectedString)
 
     Xcode高亮显示所有与选中字符串相同的字符串，只是加个虚线，这个插件可以将整个背景高亮
 
     ![image](https://github.com/keepyounger/HighlightSelectedString/raw/master/demo.png)
 
-* (KSImageNamed)[https://github.com/ksuther/KSImageNamed-Xcode]
+* [KSImageNamed](https://github.com/ksuther/KSImageNamed-Xcode)
 
     当调用[NSImage imageNamed: or [UIImage imageNamed:的时候能自动提示当前Images.xcassests有哪些图片
 
     ![image](https://camo.githubusercontent.com/c354bf04524df86daeabe7a6d2b9926fac790f85/68747470733a2f2f7261772e6769746875622e636f6d2f6b7375746865722f4b53496d6167654e616d65642d58636f64652f6d61737465722f73637265656e73686f742e676966)
 
-* (SCXcodeTabSwitcher)[https://github.com/stefanceriu/SCXcodeTabSwitcher]
+* [SCXcodeTabSwitcher](https://github.com/stefanceriu/SCXcodeTabSwitcher)
 
     当你受够了每次都要用几个指头前进后退你打开过的文件，或者每次都需要从文件导航窗口去切换文件，那么就需要这个插件了，可以用**⌘cmd + [1..9]**来切换。
 
