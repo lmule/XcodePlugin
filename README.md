@@ -70,6 +70,7 @@ Xcode作为官方指定的iOS应用开发IDE，功能虽然够用，但用户体
     **update：1、更新了谷歌的查询域名；2、因为谷歌的查询结果已经包含了stackoverflow，所以将stackoverflow改成了百度**
     
     `git clone https://github.com/lmule/CopyIssue-Xcode-Plugin.git /tmp/xxxyyy;`
+    
     `cp -r /tmp/xxxyyy/Products/HTYCopyIssue.xcplugin ~/Library/Application\ Support/Developer/Shared/Xcode/Plug-ins;`
 
     ![image](https://github.com/hanton/CopyIssue-Xcode-Plugin/raw/master/screenshots/Step1.png?raw=true)
