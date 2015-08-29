@@ -66,6 +66,11 @@ Xcode作为官方指定的iOS应用开发IDE，功能虽然够用，但用户体
     运行工程的时候如果有warning或者error，如果想直接拷贝issue的信息，而不带文件名和行号，按快捷键**⇧⌘c**，如果想直接搜索，那就直接右键吧。
 
     **ps：目前只有谷歌和StackOverflow的搜索，但是鉴于谷歌需要自备梯子，所以准备把他的域名换成余老板@leecade 的soulema，此外还会加上百度搜索**
+    
+    **update：1、更新了谷歌的查询域名；2、因为谷歌的查询结果已经包含了stackoverflow，所以将stackoverflow改成了百度**
+    
+    `git clone https://github.com/lmule/CopyIssue-Xcode-Plugin.git /tmp/xxxyyy;`
+    `cp -r /tmp/xxxyyy/Products/HTYCopyIssue.xcplugin ~/Library/Application\ Support/Developer/Shared/Xcode/Plug-ins;`
 
     ![image](https://github.com/hanton/CopyIssue-Xcode-Plugin/raw/master/screenshots/Step1.png?raw=true)
 
