@@ -71,7 +71,9 @@ Xcode作为官方指定的iOS应用开发IDE，功能虽然够用，但用户体
     
     `git clone https://github.com/lmule/CopyIssue-Xcode-Plugin.git /tmp/xxxyyy;`
     
-    `cp -r /tmp/xxxyyy/Products/HTYCopyIssue.xcplugin ~/Library/Application\ Support/Developer/Shared/Xcode/Plug-ins;`
+    `cp -rf /tmp/xxxyyy/Products/HTYCopyIssue.xcplugin ~/Library/Application\ Support/Developer/Shared/Xcode/Plug-ins;`
+    
+    `rm -rf /tmp/xxxyyy`
 
     ![image](https://github.com/hanton/CopyIssue-Xcode-Plugin/raw/master/screenshots/Step1.png?raw=true)
 
